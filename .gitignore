@@ -1,0 +1,7 @@
+\build
+.vscode/
+\googletest
+/Generate_Orders/orders.txt
+orders.txt
+order_processing_times.csv
+initialOrders.txt
