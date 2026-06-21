@@ -151,8 +151,3 @@ Since the number of executed orders and AVL tree rebalances are linked, as more 
 
 This limit order book can handle over 1.4 million orders per second by utilizing an architecture focused on efficient data structures to support high-frequency trading (`HFT`). The results suggest that the number of orders per second could be further increased by reducing the number of required AVL tree rebalances. Additionally, using a faster CPU should also significantly improve performance.
 
-## References
-
-[How to Build a Fast Limit Order Book - wkselph](https://web.archive.org/web/20110219163448/http://howtohft.wordpress.com/2011/02/15/how-to-build-a-fast-limit-order-book/)
-
-[Millions of Orders per Second Matching Engine Testing - Alex Zus](https://habr.com/en/articles/581170/)
